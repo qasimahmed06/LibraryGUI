@@ -35,6 +35,3 @@ LibraryGUI is a Java-based application designed to help librarians manage their 
 
 ## Project Developer
 Qasim Ahmed
-
-## License
-This project is licensed under the [MIT License](link to license file).
